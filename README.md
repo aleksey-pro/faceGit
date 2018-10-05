@@ -1,3 +1,11 @@
+# Upload to firebase:
+
+- npm i -g firebase-tools
+- cd project
+- firebase login
+- firebase init
+- firebase deploy
+
 # Home project: facegit 1/3
 
 [Пример первой части](http://5a19a183a6188f20378c66f1.brave-golick-d6a52f.netlify.com).
